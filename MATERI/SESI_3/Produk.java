@@ -1,3 +1,5 @@
+package MATERI.SESI_3;
+
 public class Produk {
     private final String nama;
     private final double harga;

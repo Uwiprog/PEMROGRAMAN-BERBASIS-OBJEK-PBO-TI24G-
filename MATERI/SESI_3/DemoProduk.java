@@ -1,3 +1,5 @@
+package MATERI.SESI_3;
+
 public class DemoProduk {
     public static void main(String[] args) {
         System.out.println("=== DEMO INHERITANCE - PRODUK ===\n");

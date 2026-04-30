@@ -1,3 +1,5 @@
+package MATERI.SESI_7;
+
 public class NonGeneric {
     // hanya bisa untuk String.
     static class PromoStore {

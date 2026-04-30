@@ -1,3 +1,5 @@
+package MATERI.SESI_2;
+
 class Mahasiswa {
     // Atribut Properti
     // "Private hanya bisa diakses dari dalam class ini sendiri"

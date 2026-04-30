@@ -1,6 +1,7 @@
-package app;
-import model.Makanan;
-import model.Minuman;
+package MATERI.SESI_6.app;
+
+import MATERI.SESI_6.model.Makanan;
+import MATERI.SESI_6.model.Minuman;
 
 public class KasirApp {
     public static void main(String[] args) {

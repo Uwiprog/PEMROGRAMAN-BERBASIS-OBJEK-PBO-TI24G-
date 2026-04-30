@@ -1,3 +1,5 @@
+package MATERI.SESI_3;
+
 public class ProdukFisik extends Produk {
     private final double beratGram;
 

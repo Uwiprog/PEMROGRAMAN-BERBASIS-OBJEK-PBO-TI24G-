@@ -1,3 +1,5 @@
+package MATERI.SESI_7;
+
 public class Generic {
     // Satu kelas generic untuk berbagai tipe data.
     static class DataStore<T> {

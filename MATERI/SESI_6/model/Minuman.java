@@ -1,7 +1,7 @@
-package model;
+package MATERI.SESI_6.model;
 
-import interfacekasir.BisaDiskon;
-import interfacekasir.BisaStok;
+import MATERI.SESI_6.interfacekasir.BisaDiskon;
+import MATERI.SESI_6.interfacekasir.BisaStok;
 
 public class Minuman extends Produk implements BisaStok, BisaDiskon {
 

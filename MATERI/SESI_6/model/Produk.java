@@ -1,4 +1,4 @@
-package model;
+package MATERI.SESI_6.model;
 public abstract class Produk {
     public String nama;
     public int harga;

@@ -1,5 +1,5 @@
-package model;
-import interfacekasir.BisaDiskon;
+package MATERI.SESI_6.model;
+import MATERI.SESI_6.interfacekasir.BisaDiskon;
 
 public class Makanan extends Produk implements BisaDiskon {
 
